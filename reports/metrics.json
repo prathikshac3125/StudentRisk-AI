@@ -1,0 +1,77 @@
+{
+  "accuracy": 0.8354430379746836,
+  "precision_at_risk": 0.7096774193548387,
+  "recall_at_risk": 0.8461538461538461,
+  "f1_at_risk": 0.7719298245614035,
+  "confusion_matrix": [
+    [
+      44,
+      9
+    ],
+    [
+      4,
+      22
+    ]
+  ],
+  "classification_report": {
+    "Not identified as at risk": {
+      "precision": 0.9166666666666666,
+      "recall": 0.8301886792452831,
+      "f1-score": 0.8712871287128713,
+      "support": 53.0
+    },
+    "At risk": {
+      "precision": 0.7096774193548387,
+      "recall": 0.8461538461538461,
+      "f1-score": 0.7719298245614035,
+      "support": 26.0
+    },
+    "accuracy": 0.8354430379746836,
+    "macro avg": {
+      "precision": 0.8131720430107527,
+      "recall": 0.8381712626995645,
+      "f1-score": 0.8216084766371374,
+      "support": 79.0
+    },
+    "weighted avg": {
+      "precision": 0.848543623247584,
+      "recall": 0.8354430379746836,
+      "f1-score": 0.8385872564604894,
+      "support": 79.0
+    }
+  },
+  "features": [
+    "school",
+    "sex",
+    "age",
+    "address",
+    "famsize",
+    "Pstatus",
+    "Medu",
+    "Fedu",
+    "Mjob",
+    "Fjob",
+    "reason",
+    "guardian",
+    "traveltime",
+    "studytime",
+    "failures",
+    "schoolsup",
+    "famsup",
+    "paid",
+    "activities",
+    "nursery",
+    "higher",
+    "internet",
+    "romantic",
+    "famrel",
+    "freetime",
+    "goout",
+    "Dalc",
+    "Walc",
+    "health",
+    "absences",
+    "G1"
+  ],
+  "target_definition": "At risk = final grade G3 below 10/20"
+}
