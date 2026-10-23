@@ -99,7 +99,7 @@ Cortez, P. and Silva, A. (2008). *Using data mining to predict secondary school 
 
 ### Screenshot 1
 
-![StudentRisk AI Screenshot 1](Screenshot%202026-10-22%20000241.png)
+![StudentRisk AI Screenshot 3](Screenshot%202026-10-22%20000151.png)
 
 ### Screenshot 2
 
@@ -107,11 +107,11 @@ Cortez, P. and Silva, A. (2008). *Using data mining to predict secondary school 
 
 ### Screenshot 3
 
-![StudentRisk AI Screenshot 3](Screenshot%202026-10-22%20000151.png)
+![StudentRisk AI Screenshot 4](Screenshot%202026-10-22%20000225.png)
 
 ### Screenshot 4
 
-![StudentRisk AI Screenshot 4](Screenshot%202026-10-22%20000225.png)
+![StudentRisk AI Screenshot 1](Screenshot%202026-10-22%20000241.png)
 
 
 
