@@ -94,6 +94,7 @@ Use synthetic or authorized, de-identified student records for demonstrations. A
 ## Dataset citation
 Cortez, P. and Silva, A. (2008). *Using data mining to predict secondary school student performance.* UCI Machine Learning Repository, Student Performance dataset. https://archive.ics.uci.edu/dataset/320/student+performance
 
+
 ## Application Screenshots
 
 ### Screenshot 1
@@ -106,11 +107,12 @@ Cortez, P. and Silva, A. (2008). *Using data mining to predict secondary school 
 
 ### Screenshot 3
 
-![StudentRisk AI Screenshot 3](Screenshot%202026-10-22%20000225.png)
+![StudentRisk AI Screenshot 3](Screenshot%202026-10-22%20000151.png)
 
 ### Screenshot 4
 
 ![StudentRisk AI Screenshot 4](Screenshot%202026-10-22%20000225.png)
+
 
 
 
